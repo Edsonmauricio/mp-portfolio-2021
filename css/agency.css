@@ -6,7 +6,7 @@
 
 body {
   overflow-x: hidden;
-  font-family: 'Averia Serif Libre', cursive;
+  font-family: <link rel="preconnect" href="https://fonts.gstatic.com">, cursive;
 }
 
 p {
