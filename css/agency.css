@@ -6,8 +6,7 @@
 
 body {
   overflow-x: hidden;
-  font-family: <link rel="preconnect" href="https://fonts.gstatic.com">, cursive;
-}
+font-family: 'Raleway', sans-serif;}
 
 p {
   line-height: 1.75;
